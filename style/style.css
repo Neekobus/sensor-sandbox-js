@@ -32,3 +32,13 @@ h1 .version {
 	font-weight: bold;
 	font-size: 1.1em;
 }
+
+#theCanvas {
+	display: block;
+
+	border: 10px solid white;
+	margin: 15px auto;
+	background-color: #efefef;
+	 
+
+}
